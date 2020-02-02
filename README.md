@@ -1,7 +1,7 @@
-**welcome to growth mindset page
+**welcome to growth mindset page**
 
 
-**growth-mindset 
+**growth-mindset**
 use to describe the underlying beliefs people have about learning and intelligence.
 
 **3 reminders to yourself of how to keep yourself in a growth mindset**
