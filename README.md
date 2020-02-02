@@ -13,8 +13,7 @@ use to describe the underlying beliefs people have about learning and intelligen
 1. Stop seeking approval.
 
 
-![growth mindset image](https://www.google.ae/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjX0ef4vbPnAhWH2BQKHR4NDvMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fxverges%2F5867129872&psig=AOvVaw1soE-qw61MZGoCyT-JGzqG&ust=1580753079080303)
-
+![growth mind](/https://www.flickr.com/photos/xverges/5867129872)
 
 my name is haneen abudayeh,i am 24 year old ago and am studied computer engineering at al-hussain bin talal univarsities from one year ago.
 
