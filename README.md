@@ -4,7 +4,7 @@
 ###growth-mindset 
 use to describe the underlying beliefs people have about learning and intelligence.
 
-** 3 reminders to yourself of how to keep yourself in a growth mindset**
+**3 reminders to yourself of how to keep yourself in a growth mindset**
 
 
 
