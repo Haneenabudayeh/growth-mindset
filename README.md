@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+##welcome to growth mindset page
 
-You can use the [editor on GitHub](https://github.com/Haneenabudayeh/growth-mindset/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###growth- mindset 
+use to describe the underlying beliefs people have about learning and intelligence.
 
-### Markdown
+**3 reminders to yourself of how to keep yourself in a growth mindset**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1.Follow the research on brain plasticity.
+2.Replace the word “failing” with the word “learning.” 
+3.Stop seeking approval.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![growth mindset image](https://www.google.ae/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiV9e7BurPnAhX9A2MBHZfuB5EQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fxverges%2F5866575567&psig=AOvVaw1soE-qw61MZGoCyT-JGzqG&ust=1580753079080303)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+my name is haneen abudayeh,i am 24 year old ago and am studied computer engineering at al-hussain bin talal univarsities from one year ago.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haneenabudayeh/growth-mindset/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
